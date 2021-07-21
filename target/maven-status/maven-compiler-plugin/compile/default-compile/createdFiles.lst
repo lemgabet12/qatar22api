@@ -1,0 +1,9 @@
+com/example/demo/ApiRest/UserRestApi.class
+com/example/demo/DemoApplication.class
+com/example/demo/dao/DAO.class
+com/example/demo/technique/Crude.class
+com/example/demo/SwaggerConfig.class
+com/example/demo/dao/UserDAO.class
+com/example/demo/technique/MyConnexion.class
+com/example/demo/model/User.class
+com/example/demo/service/UserDAOService.class
